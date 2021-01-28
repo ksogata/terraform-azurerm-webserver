@@ -6,6 +6,7 @@ Creates a Resource Group with the following resources:
 
 - Network Interface
 - Virtual Machine
+- This is my custom content
 
 ## Authors
 
